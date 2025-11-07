@@ -189,6 +189,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 ## ✈️ After Visa Approval
 
 ### Buying Air Ticket
+- If you try to use your Bangladeshi card, then there is a limitation what is the maximum transaction amount. For my City Bank Visa card, it was 300 USD. So I have to make a request to increase my transaction amount through this page- https://positivepay.thecitybank.com/cards/
 - Best time and sites to buy  
 
 ### Booking First Accommodation
