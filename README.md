@@ -101,13 +101,14 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 - Format and key points for PhD application
 - [📄 View My CV Example](#my-CV-sample)
 
+#### Now that everything is ready, you should start the next two steps in parallel. First, select some universities and apply through their central application systems. Second, search for professors who are currently accepting students. You should email professors not only from the universities you’ve applied to but also from any other institutions where you find suitable research matches. If a professor shows interest in your profile and you haven’t yet applied to that university, you can then submit your application there.
 ---
 
 ## 🏫 University Selection
 
 ### How I Shortlisted Universities
-- Criteria: ranking, funding, research area, location  
-- Spreadsheet or tool used  
+- This data helped me analyze which universities align best with my profile; https://docs.google.com/spreadsheets/d/1RpWaU1AQjgTd1jzBYhw8lk-NNORSPaFC-lWdaS8VvvU/edit?gid=720774269#gid=720774269 
+- If you look at the posts in this group, you’ll get an idea of the profiles of students who are getting admission;  https://www.facebook.com/groups/nextop.usa 
 
 ### Comparing CS vs CE Admission Difficulty
 - My research and insights  
