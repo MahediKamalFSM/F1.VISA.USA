@@ -108,10 +108,12 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 
 ### How I Shortlisted Universities
 - This data helped me analyze which universities align best with my profile; https://docs.google.com/spreadsheets/d/1RpWaU1AQjgTd1jzBYhw8lk-NNORSPaFC-lWdaS8VvvU/edit?gid=720774269#gid=720774269 
-- If you look at the posts in this group, you’ll get an idea of the profiles of students who are getting admission;  https://www.facebook.com/groups/nextop.usa 
+- If you look at the posts in this group, you’ll get an idea of the profiles of students who are getting admission;  https://www.facebook.com/groups/nextop.usa
+- You might have a favorite state because a relative lives there, or you might choose a state based on its weather.
+- Now, as you have all the information you can select which university you want to apply.
 
 ### Comparing CS vs CE Admission Difficulty
-- My research and insights  
+- Computer Science is usually harder to get into than Computer Engineering, even though both programs are rigorous and share many courses in the early years.  
 
 ---
 
@@ -119,16 +121,17 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
 You can also create your LinkedIn profile and be connected with many academic people, this you will also see post where professor are looking for students. This will save a lot of your time.
 ### How to Write an Effective Email
-- Subject line
-- Content
-- Signature  
+- Read some of the professor’s papers from Google Scholar. You can use https://notebooklm.google/ to summarize and understand them easily. This tool really helped me grasp research papers and write emails with much less effort.
 
 ### Sample Emails I Sent
 - [📄 Sample 1 – Research Inquiry](#)
 - [📄 Sample 2 – Follow-up Email](#)
 
-### Common Mistakes
-- What not to do when emailing professors  
+### Tips
+- If you have a professional or paid email address that includes your real name, use that. For example, I used my work email when I was employed as a software engineer.
+- Keep your email short and to the point — professors usually don’t have much time to read long messages.
+- Show genuine interest in their research and explain why you’re reaching out.
+- Keep all attached document names consistent, such as DocumentName_MahediKamal.
 
 ---
 
