@@ -135,42 +135,42 @@ You can also create your LinkedIn profile and be connected with many academic pe
 
 ---
 
-## 🎓 Getting Admission Offers
+## 🎓 Getting Offers
 
 ### RA / TA / Fellowship Funding
-- How funding works
-- My experience getting RA  
-
-### How I Evaluated Offers
-- Factors I considered before final decision  
+- If you get an admission letter but didn't get funding then reach out to the department and professors.
+- My experience getting RA: I applied centrally and received an admission offer for Fall 2025, but didn't get any funding then. So, I deferred my admission to Fall 2026. Later, I emailed a professor from that university, and he expressed interest in having me join in Spring 2026. As a result, I changed my admission term again and received a Research Assistantship (RA) offer from that professor.
+- If you have got any offer from a professor via email but don’t yet have an admission offer from that university, you should apply quickly. The professor can then support your application and help you secure funding.
 
 ---
 
 ## 💰 I-20 and Financial Documents
 
-### Understanding the I-20
-- Breakdown of sections  
-
-### Showing Bank/Sponsor Funds
-- What documents I used  
+- After you have managed your Admission and funding now it is time to get you I-20
+- For my case, I have to email Director of Recruitment & Marketing to get the I-20 
 
 ### Common I-20 Issues and Fixes
-- How I solved deficit problems  
+- If you are fully funded but your I-20 shows a small deficit (e.g., $1–2k), that’s usually okay. You can simply show a bank statement covering that amount.
+- If your funding letter only covers one term but mentions that it will be renewed for the next term, that’s also acceptable. Again, just show the deficit amount with a bank statement.
+- However, if you are not fully funded (e.g., only 80% funding), you will need a very strong bank statement. Otherwise, there is a high risk of visa denial.
 
 ---
 
 ## 🧾 Visa Process
 
 ### Filling DS-160 Form
-- Step-by-step  
-- Common errors  
+- Don't make any mistake, Its very important. link of DS-160 https://ceac.state.gov/GenNIV/Default.aspx
+- You must fill this form before you schedule your visa aapointment.  
 
 ### SEVIS Fee Payment
-- Payment process  
+- Try do this payment at lest 7 days before you visa interview date. This is the link for sevis payment-
+- You can do this latter, aftter secedulinng you visa date
 
 ### Scheduling VAC and Embassy Appointments
-- Timeline for Bangladesh  
-- Tips for smooth scheduling  
+- Go to this site to schedule your visa interview date: https://www.ustraveldocs.com/bd/en/
+- You have to make a payment, and get an initial visa intervew date.
+- Now you can reshedule the date if you want. If you frequently visit the website to reschedule your visa date, you may get temporarily blocked. To avoid this, you should use this group to reschedule your visa appointment: https://t.me/+NEcX-i-m1_9jMTU1
+- I got a visa date within 3 weeks using this group. 
 
 ### Required Visa Documents
 - Full checklist  
