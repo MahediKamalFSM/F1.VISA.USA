@@ -73,7 +73,7 @@ Before everything, while you are doing your bachelor's, try to do some research 
 - For practice, use this side https://gre.kmf.com/
 
 ### TOEFL / IELTS
-- You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 190 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
+- You must have these tests ready for applying to the university [Exception is not an example]. You should try to keep a minimum TOEFL score of 90 or a minimum IELTS score of 6.5. There are some other English tests, but it is recommended to take TOEFL or IELTS.
 #### TOEFL Preparation
 - [Academic discussion](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/TOEFL%20Academic%20discussion.pdf) [Officail question from ETS]
 - [Toefl speaking](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/Toefl%20speaking.pdf) [My speaking template]
@@ -99,10 +99,10 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 - [📄 View My CV Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_CV_Mahedi%20Kamal.pdf)
 
 ### Transcript
-- Collect your transcript from university
+- Collect your transcript from the university
 
 ### Other documnents
-- Some university might require other documents. For UAlbany they reqiured Personal History.
+- Some universities might require other documents. For UAlbany, they required a Personal History.
 - [📄 View My Personal History Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Personal%20History_Mahedi%20Kamal.pdf)
 
 #### Now that everything is ready, you should start the next two steps in parallel. First, select some universities and apply through their central application systems. Second, search for professors who are currently accepting students. You should email professors not only from the universities you’ve applied to but also from any other institutions where you find suitable research matches. If a professor shows interest in your profile and you haven’t yet applied to that university, you can then submit your application there.
@@ -115,7 +115,7 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 - This data helped me analyze which universities align best with my profile; https://docs.google.com/spreadsheets/d/1RpWaU1AQjgTd1jzBYhw8lk-NNORSPaFC-lWdaS8VvvU/edit?gid=720774269#gid=720774269 
 - If you look at the posts in this group, you’ll get an idea of the profiles of students who are getting admission;  https://www.facebook.com/groups/nextop.usa
 - You might have a favorite state because a relative lives there, or you might choose a state based on its weather.
-- Now, as you have all the information you can select which university you want to apply.
+- Now, as you have all the information, you can select which university you want to apply to.
 
 ### Comparing CS vs CE Admission Difficulty
 - Computer Science is usually harder to get into than Computer Engineering, even though both programs are rigorous and share many courses in the early years.  
