@@ -246,7 +246,11 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 - On-campus vs off-campus  
 
 ### Pre-Departure Checklist
-- Documents, vaccines, money, adapters, etc.  
+- Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
+- If you haven't sent offcial GRE, TOEFL, then send it
+- Check vaccine requirements and get vaccinated. Don't forget to get the vaccination certificate [MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
+- money.
+- Shopping checklist  
 
 ---
 
