@@ -43,15 +43,9 @@
 11. [Arriving in the USA](#arriving-in-the-usa)
     - [Immigration at Port of Entry](#immigration-at-port-of-entry)
     - [First Week in the USA](#first-week-in-the-usa)
-12. [Documents and Samples](#documents-and-samples)
-    - [My SOP (Sample)](#my-sop-sample)
-    - [My LOR Template](#my-lor-template)
-    - [Email Templates](#email-templates)
-    - [Visa Interview Sheet](#visa-interview-sheet)
-    - [Packing List](#packing-list)
-13. [Tips and Lessons Learned](#tips-and-lessons-learned)
-14. [Acknowledgments](#acknowledgments)
-15. [Contact](#contact)
+12. [Tips and Lessons Learned](#tips-and-lessons-learned)
+13. [Acknowledgments](#acknowledgments)
+14. [Contact](#contact)
 
 ---
 <a name="Introduction"></a>
@@ -62,6 +56,7 @@
 ## Research
 Before everything, while you are doing your bachelor's, try to do some research work. It will be very helpful. [for PhD and MS]
 
+<a name="Standardized Tests"></a>
 ## 📊 Standardized Tests
 
 ### GRE
@@ -87,6 +82,7 @@ Before everything, while you are doing your bachelor's, try to do some research 
 - [Listening YouTube Playlist](https://youtube.com/playlist?list=PLIi5X8tybGdDoPS_y5HCLFQlH6vP9JkKB&si=9jJVmXCJOcAMBj0W)
 ---
 
+<a name="Application Documents"></a>
 ## ✍️ Application Documents
 Now it is time to make some documents ready to apply centrally, and also to email the professor.
 ### Statement of Purpose (SOP)
@@ -112,6 +108,7 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 #### Now that everything is ready, you should start the next two steps in parallel. First, select some universities and apply through their central application systems. Second, search for professors who are currently accepting students. You should email professors not only from the universities you’ve applied to but also from any other institutions where you find suitable research matches. If a professor shows interest in your profile and you haven’t yet applied to that university, you can then submit your application there.
 ---
 
+<a name="University Selection"></a>
 ## 🏫 University Selection
 
 ### How I Shortlisted Universities
@@ -125,6 +122,7 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 
 ---
 
+<a name="Emailing Professors"></a>
 ## 💌 Emailing Professors
 You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
 You can also create your LinkedIn profile and be connected with many academic people, this you will also see post where professor are looking for students. This will save a lot of your time.
@@ -143,6 +141,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 
 ---
 
+<a name="Getting Offers"></a>
 ## 🎓 Getting Offers
 
 ### RA / TA / Fellowship Funding
@@ -152,6 +151,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 
 ---
 
+<a name="I-20 and Financial Documents"></a>
 ## 💰 I-20 and Financial Documents
 
 - After you have managed your Admission and funding, now it is time to get your I-20
@@ -164,6 +164,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 
 ---
 
+<a name="Visa Process"></a>
 ## 🧾 Visa Process
 
 ### Filling DS-160 Form
@@ -206,6 +207,7 @@ You can also create your LinkedIn profile and be connected with many academic pe
 During my Visa interview, only my  I-20 and Passport were checked, but it is better to keep all the documents with you
 ---
 
+<a name="Visa Interview Preparation"></a>
 ## 💬 Visa Interview Preparation
 
 ### My Visa Interview Experience
@@ -233,6 +235,7 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 
 ---
 
+<a name="After Visa Approval"></a>
 ## ✈️ After Visa Approval
 
 ### Buying Air Ticket
@@ -248,6 +251,7 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 
 ---
 
+<a name="Arriving in the USA"></a>
 ## 🛬 Arriving in the USA
 
 ### Immigration at Port of Entry
@@ -256,28 +260,22 @@ During my Visa interview, only my  I-20 and Passport were checked, but it is bet
 ### First Week in the USA
 - Orientation, SSN, bank account, etc.  
 
----
-
-## 📂 Documents and Samples
-
-- [My SOP (Sample)](#my-sop-sample)  
-- [My LOR Template](#my-lor-template)  
-- [Professor Email Examples](#email-templates)  
-- [Visa Interview Document](#visa-interview-sheet)  
-- [Packing List](#packing-list)  
 
 ---
 
+<a name="Tips and Lessons Learned"></a>
 ## 💡 Tips and Lessons Learned
 Key advice for new applicants, mistakes to avoid, and mindset tips.
 
 ---
 
+<a name="Acknowledgments"></a>
 ## 🙏 Acknowledgments
 Thank people, professors, or friends who guided you.
 
 ---
 
+<a name="Contact"></a>
 ## 📧 Contact
 If you have questions, feel free to reach out:  
 `[mahedikamal44@gmail.com]`
