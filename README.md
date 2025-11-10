@@ -20,7 +20,7 @@
    - [How to Write an Effective Email](#how-to-write-an-effective-email)
    - [Sample Emails I Sent](#sample-emails-i-sent)
    - [Common Mistakes](#common-mistakes)
-6. [Getting Offers](#getting-admission-offers)
+6. [Getting Offers](#getting-offers)
    - [RA / TA / Fellowship Funding](#ra--ta--fellowship-funding)
    - [How I Evaluated Offers](#how-i-evaluated-offers)
 7. [I-20 and Financial Documents](#i-20-and-financial-documents)
@@ -140,7 +140,6 @@ You can also create your LinkedIn profile and be connected with many academic pe
 - Keep all attached document names consistent, such as DocumentName_MahediKamal.
 
 ---
-
 <a name="Getting-Offers"></a>
 ## 🎓 Getting Offers
 
