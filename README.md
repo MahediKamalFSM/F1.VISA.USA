@@ -128,6 +128,7 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 ## 💌 Emailing Professors
 You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
 You can also create your LinkedIn profile and be connected with many academic people, So academic post will come to your timeline an you will see post where professor are looking for students. This will save a lot of your time.
+And there is always one option, you go to the university website and see all faculty of your department and from there find out professors information.
 ### How to Write an Effective Email
 - Read some of the professor’s papers from Google Scholar. You can use https://notebooklm.google/ to summarize and understand them easily. This tool really helped me grasp research papers and write emails with much less effort.
 
