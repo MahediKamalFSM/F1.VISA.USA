@@ -247,6 +247,10 @@ And there is always one option, you go to the university website and see all the
 - From the app, you can see a view like this after clicking the date section, which helps you see on which date the ticket price is low on average
 <img src="https://github.com/MahediKamal/F1.VISA.USA/blob/5aaca3ca5af553d6db885d174b8e459948fab6a8/Others/Skyscanner.jpg" alt="GRE Score" width="200">
 
+- Many airlines provide special offers for students. Check how to avail a discount as an international student.
+- Turkish Airlines offer- https://www.youtube.com/watch?v=nxHJBQIE50k
+- Emirates Airlines offer- https://www.youtube.com/watch?v=qW1rw2tSszw
+
 ### Booking First Accommodation
 - On-campus vs off-campus  [Coming Soon ...]
 
