@@ -77,8 +77,8 @@ Before everything, while you are doing your bachelor's, try to do some research 
 #### TOEFL Preparation
 - [Academic discussion](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/TOEFL%20Academic%20discussion.pdf) [Officail question from ETS]
 - [Toefl speaking](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/Toefl%20speaking.pdf) [My speaking template]
-- [oefl-ibt-free-practice-test](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-free-practice-test.pdf) [Official]
-- [toefl-ibt-reading-practice-sets](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-reading-practice-sets.pdf) [Official]
+- [Toefl-ibt-free-practice-test](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-free-practice-test.pdf) [Official]
+- [Toefl-ibt-reading-practice-sets](https://github.com/MahediKamal/F1.VISA.USA/blob/a4c9d82ed3212e7ebb0d58da21b4d2dd954fa75e/TOEFL%20doc/toefl-ibt-reading-practice-sets.pdf) [Official]
 - [Listening YouTube Playlist](https://youtube.com/playlist?list=PLIi5X8tybGdDoPS_y5HCLFQlH6vP9JkKB&si=9jJVmXCJOcAMBj0W)
 ---
 
@@ -127,7 +127,7 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 <a name="Emailing-Professors"></a>
 ## 💌 Emailing Professors
 You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
-You can also create your LinkedIn profile and be connected with many academic people, this you will also see post where professor are looking for students. This will save a lot of your time.
+You can also create your LinkedIn profile and be connected with many academic people, So academic post will come to your timeline an you will see post where professor are looking for students. This will save a lot of your time.
 ### How to Write an Effective Email
 - Read some of the professor’s papers from Google Scholar. You can use https://notebooklm.google/ to summarize and understand them easily. This tool really helped me grasp research papers and write emails with much less effort.
 
