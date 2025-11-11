@@ -87,10 +87,10 @@ Before everything, while you are doing your bachelor's, try to do some research 
 Now it is time to make some documents ready to apply centrally, and also to email the professor.
 ### Statement of Purpose (SOP)
 - It should be within 2 pages   
-- [📄 View My SOP Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Statement%20of%20Background%20and%20Goals_Mahedi%20Kamal.pdf) [For UAlbany it was named as Statement of Background and Goals]
+- [📄 View My SOP Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Statement%20of%20Background%20and%20Goals_Mahedi%20Kamal.pdf) [For UAlbany, it was named as Statement of Background and Goals]
 
 ### Letters of Recommendation (LOR)
-- When you will apply from any US university portal, it will ask to give email address of 1-4 person who will give you LOR. After you add their email address a email will be sent to them with a link where they will be uploading a LOR for you.
+- When you apply from any US university portal, it will ask for give email addresses of 1-4 people who will give you a LOR. After you add their email address, an email will be sent to them with a link where they will be uploading a LOR for you.
 - Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work
 - You can also take LOR from your office team lead or any other senior.   
 - [📄 LOR Example 1](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Dr.%20M.%20Akhtaruzzaman%20to%20Mahedi%20Kamal.pdf)
@@ -127,8 +127,8 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 <a name="Emailing-Professors"></a>
 ## 💌 Emailing Professors
 You can find Professors who will take new students from this group- https://www.facebook.com/groups/nextop.usa
-You can also create your LinkedIn profile and be connected with many academic people, So academic post will come to your timeline an you will see post where professor are looking for students. This will save a lot of your time.
-And there is always one option, you go to the university website and see all faculty of your department and from there find out professors information.
+You can also create your LinkedIn profile and be connected with many academic people, so academic posts will come to your timeline, and you will see posts where professor are looking for students. This will save a lot of your time.
+And there is always one option, you go to the university website and see all the faculty of your department, and from there find out professors' information.
 ### How to Write an Effective Email
 - Read some of the professor’s papers from Google Scholar. You can use https://notebooklm.google/ to summarize and understand them easily. This tool really helped me grasp research papers and write emails with much less effort.
 
@@ -168,7 +168,7 @@ And there is always one option, you go to the university website and see all fac
 
 <a name="Visa-Process"></a>
 ## 🧾 Visa Process
-- You can statrt this process after you get you I-20
+- You can start this process after you get your I-20
 ### Filling DS-160 Form
 - Don't make any mistakes, it's very important. link of DS-160 https://ceac.state.gov/GenNIV/Default.aspx
 - You must fill out this form before you schedule your visa appointment.  
@@ -182,7 +182,9 @@ And there is always one option, you go to the university website and see all fac
 - Go to this site to schedule your visa interview date: https://www.ustraveldocs.com/bd/en/
 - You have to make a payment and get an initial visa interview date.
 - Now you can reschedule the date if you want. If you frequently visit the website to reschedule your visa date, you may get temporarily blocked. To avoid this, you should use this group to reschedule your visa appointment: https://t.me/+NEcX-i-m1_9jMTU1
-- I got a visa date within 3 weeks using this group. 
+- I got a visa date within 3 weeks using this group.
+- In Bangladesh, biometric and visa interview happens on the same day in the same place. This is the location: https://maps.app.goo.gl/2S3Pujz2b8h2iWVB7?g_st=ipc
+- They will take your passport if your visa is initially approved. You have to collect your passport after you get an email. This is the passport collection location: https://maps.app.goo.gl/nExhLqQrgCkjDcKp9?g_st=ipc
 
 ### Required Visa Documents
 - I-20 
@@ -246,38 +248,38 @@ And there is always one option, you go to the university website and see all fac
 <img src="https://github.com/MahediKamal/F1.VISA.USA/blob/5aaca3ca5af553d6db885d174b8e459948fab6a8/Others/Skyscanner.jpg" alt="GRE Score" width="200">
 
 ### Booking First Accommodation
-- On-campus vs off-campus  [Comming Soon ...]
+- On-campus vs off-campus  [Coming Soon ...]
 
 ### Pre-Departure Checklist
 - Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
 - If you haven't sent offcial GRE, TOEFL, then send it
 - Check vaccine requirements and get vaccinated. Don't forget to get the vaccination certificate [MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
-- money [Comming Soon ...]
-- Shopping checklist  [Comming Soon ...]
+- money [Coming Soon ...]
+- Shopping checklist  [Coming Soon ...]
 
 ---
 
 <a name="Arriving-in-the-USA"></a>
-## 🛬 Arriving in the USA [Comming Soon ...]
+## 🛬 Arriving in the USA [Coming Soon ...]
 
 ### Immigration at Port of Entry
-- My experience and tips [Comming Soon ...] 
+- My experience and tips [Coming Soon ...] 
 
 ### First Week in the USA
-- Orientation, SSN, bank account, etc.  [Comming Soon ...]
+- Orientation, SSN, bank account, etc.  [Coming Soon ...]
 
 
 ---
 
 <a name="Tips-and-Lessons-Learned"></a>
 ## 💡 Tips and Lessons Learned
-[Comming Soon ...]
+[Coming Soon ...]
 
 ---
 
 <a name="Acknowledgments"></a>
 ## 🙏 Acknowledgments
-Parents, Brother, Professors -- Thanks for your help and encouragements
+Parents, Brother, Professors -- Thanks for your help and encouragement
 
 ---
 
