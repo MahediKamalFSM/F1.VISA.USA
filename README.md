@@ -90,8 +90,9 @@ Now it is time to make some documents ready to apply centrally, and also to emai
 - [📄 View My SOP Example](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/ALBANY_Statement%20of%20Background%20and%20Goals_Mahedi%20Kamal.pdf) [For UAlbany it was named as Statement of Background and Goals]
 
 ### Letters of Recommendation (LOR)
-- When you will aplly from any US university portal, it will ask to give email address of 1-4 person who will give you LOR. After you add their email address a email will be sent to then with a link whwre they will be aploading a LOR for you.
-- Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work    
+- When you will apply from any US university portal, it will ask to give email address of 1-4 person who will give you LOR. After you add their email address a email will be sent to them with a link where they will be uploading a LOR for you.
+- Try to take LOR from the Professor with whom you have worked and have at least 1 collaborative paper work
+- You can also take LOR from your office team lead or any other senior.   
 - [📄 LOR Example 1](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Dr.%20M.%20Akhtaruzzaman%20to%20Mahedi%20Kamal.pdf)
 - [📄 LOR Example 2](https://github.com/MahediKamal/F1.VISA.USA/blob/95bfd033445541a14d9ebb26e2bbe61d6f2d2bd9/Application%20doc/LOR_Prof%20Md.%20Mahbubur%20Rahman%20to%20Mahedi%20Kamal.pdf)
 
