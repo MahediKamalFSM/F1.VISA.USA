@@ -162,7 +162,7 @@ And there is always one option, you go to the university website and see all the
 ### Common I-20 Issues and Fixes
 - If you are fully funded but your I-20 shows a small deficit (e.g., $1–2k), that’s usually okay. You can simply show a bank statement covering that amount.
 - If your funding letter only covers one term but mentions that it will be renewed for the next term, that’s also acceptable. Again, just show the deficit amount with a bank statement.
-- However, if you are not fully funded (e.g., only 80% funding), you will need a very strong bank statement. Otherwise, there is a high risk of visa denial.
+- However, if you are not fully funded (e.g., only 80% funding), you will need a very strong bank statement. Otherwise, there is a high risk of visa denial if you are form a country where there is a low visa acceptance rate.
 
 ---
 
@@ -171,14 +171,17 @@ And there is always one option, you go to the university website and see all the
 - You can start this process after you get your I-20
 ### Filling DS-160 Form
 - Don't make any mistakes, it's very important. link of DS-160 https://ceac.state.gov/GenNIV/Default.aspx
+- Get your photo like this- https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html
 - You must fill out this form before you schedule your visa appointment.  
 
 ### SEVIS Fee Payment
-- Try to make this payment at least 7 days before your visa interview date. This is the link for SEVIS payment-
-- You can do this later, after securing your visa date
+- After you get the I-20
+- You can do this later, after securing your visa date.
+- You must make this payment at least 3 days before your visa interview date. This is the link for SEVIS payment- https://www.fmjfee.com/i901fee/index.htm
 - If you try to use your Bangladeshi card, then there is a limitation on the maximum transaction amount. For my City Bank Visa card, it was 290 USD. So I have to make a request to increase my transaction amount through this page- https://positivepay.thecitybank.com/cards/
 
 ### Scheduling VAC and Embassy Appointments
+- You must complete the DS-160 before this
 - Go to this site to schedule your visa interview date: https://www.ustraveldocs.com/bd/en/
 - You have to make a payment and get an initial visa interview date.
 - Now you can reschedule the date if you want. If you frequently visit the website to reschedule your visa date, you may get temporarily blocked. To avoid this, you should use this group to reschedule your visa appointment: https://t.me/+NEcX-i-m1_9jMTU1
@@ -250,6 +253,7 @@ And there is always one option, you go to the university website and see all the
 - Many airlines provide special offers for students. Check how to avail a discount as an international student.
 - Turkish Airlines offer- https://www.youtube.com/watch?v=nxHJBQIE50k
 - Emirates Airlines offer- https://www.youtube.com/watch?v=qW1rw2tSszw
+- Check what is the baggage limit for all the flight. eg; if your first flight allow 2 bag and 2nd flight allow 1 bag only then it will be a problem. So, check before you buy ticket.
 
 ### Booking First Accommodation
 - On-campus vs off-campus  [Coming Soon ...]
@@ -257,8 +261,8 @@ And there is always one option, you go to the university website and see all the
 ### Pre-Departure Checklist
 - Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
 - If you haven't sent offcial GRE, TOEFL, then send it
-- Check vaccine requirements and get vaccinated. Don't forget to get the vaccination certificate [MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
-- money [Coming Soon ...]
+- Check vaccine requirements for your university and get vaccinated. Don't forget to get the vaccination certificate [commom vaccine: MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
+- Take some $ with you.
 - Shopping checklist  [Coming Soon ...]
 
 ---
