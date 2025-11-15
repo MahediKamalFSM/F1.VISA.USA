@@ -22,10 +22,8 @@
    - [Common Mistakes](#common-mistakes)
 6. [Getting Offers](#getting-offers)
    - [RA / TA / Fellowship Funding](#ra--ta--fellowship-funding)
-   - [How I Evaluated Offers](#how-i-evaluated-offers)
 7. [I-20 and Financial Documents](#i-20-and-financial-documents)
-   - [Understanding the I-20](#understanding-the-i-20)
-   - [Showing Bank/Sponsor Funds](#showing-banksponsor-funds)
+   - [I-20 and Financial Documents](#I-20-and-Financial-Documents)
    - [Common I-20 Issues and Fixes](#common-i-20-issues-and-fixes)
 8. [Visa Process](#visa-process)
    - [Filling DS-160 Form](#filling-ds-160-form)
@@ -143,6 +141,7 @@ And there is always one option, you go to the university website and see all the
 - Keep your email short and to the point — professors usually don’t have much time to read long messages.
 - Show genuine interest in their research and explain why you’re reaching out.
 - Keep all attached document names consistent, such as DocumentName_MahediKamal.
+- Email at morning time of the professor.
 
 ---
 <a name="Getting-Offers"></a>
@@ -283,7 +282,8 @@ And there is always one option, you go to the university website and see all the
 
 <a name="Tips-and-Lessons-Learned"></a>
 ## 💡 Tips and Lessons Learned
-[Coming Soon ...]
+- When applying to a university, create a separate folder with the university name and all documents and information related to it.
+- Don't type while filling out anything form. First, make a document with all your information, now copy information from that document when filling out any form. This will reduce the probability of mistakes drastically.
 
 ---
 
