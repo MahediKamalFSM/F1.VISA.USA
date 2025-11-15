@@ -262,7 +262,7 @@ And there is always one option, you go to the university website and see all the
 ### Pre-Departure Checklist
 - Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
 - If you haven't sent offcial GRE, TOEFL, then send it
-- Check vaccine requirements for your university and get vaccinated. Don't forget to get the vaccination certificate [common vaccines: MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
+- Check vaccine requirements for your university and get vaccinated. Don't forget to get the vaccination certificate [common vaccines: MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]. You can take some most common vaccines from here - https://www.icddrb.org/vaccination
 - Take some $ with you.
 - Make Shopping checklist  [[my Shopping list](https://github.com/MahediKamal/F1.VISA.USA/blob/ad7faed7e39f3f922a608f429f23aded15dd9079/Others/Shopping.txt)]
 
