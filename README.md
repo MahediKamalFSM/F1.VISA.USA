@@ -283,13 +283,13 @@ And there is always one option, you go to the university website and see all the
 <a name="Tips-and-Lessons-Learned"></a>
 ## 💡 Tips and Lessons Learned
 - When applying to a university, create a separate folder with the university name and all documents and information related to it.
-- Don't type while filling out anything form. First, make a document with all your information, now copy information from that document when filling out any form. This will reduce the probability of mistakes drastically.
+- Don't type while filling out any form. First, make a document with all your information, and then copy information from that document when filling out any form. This will reduce the probability of mistakes drastically.
 
 ---
 
 <a name="Acknowledgments"></a>
 ## 🙏 Acknowledgments
-Parents, Brother, Professors -- Thanks for your help and encouragement
+Thanks, everyone, for your help and encouragement
 
 ---
 
