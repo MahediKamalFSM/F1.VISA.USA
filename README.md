@@ -253,7 +253,7 @@ And there is always one option, you go to the university website and see all the
 - Many airlines provide special offers for students. Check how to avail a discount as an international student.
 - Turkish Airlines offer- https://www.youtube.com/watch?v=nxHJBQIE50k
 - Emirates Airlines offer- https://www.youtube.com/watch?v=qW1rw2tSszw
-- Check what is the baggage limit for all the flight. eg; if your first flight allow 2 bag and 2nd flight allow 1 bag only then it will be a problem. So, check before you buy ticket.
+- Check what the baggage limit is for all the flights. eg; if your first flight allow 2 bag and 2nd flight allows 1 bag only, then it will be a problem. So, check before you buy a ticket.
 
 ### Booking First Accommodation
 - On-campus vs off-campus  [Coming Soon ...]
@@ -261,9 +261,9 @@ And there is always one option, you go to the university website and see all the
 ### Pre-Departure Checklist
 - Send your official documents [Transcript, Mark Sheet, Provisional Certificate, and Main Certificate, etc.]
 - If you haven't sent offcial GRE, TOEFL, then send it
-- Check vaccine requirements for your university and get vaccinated. Don't forget to get the vaccination certificate [commom vaccine: MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
+- Check vaccine requirements for your university and get vaccinated. Don't forget to get the vaccination certificate [common vaccines: MMR, TDaP, Varivax, flu, Tb, Tetanus, etc.]
 - Take some $ with you.
-- Shopping checklist  [Coming Soon ...]
+- Make Shopping checklist  [[my Shopping list](https://github.com/MahediKamal/F1.VISA.USA/blob/ad7faed7e39f3f922a608f429f23aded15dd9079/Others/Shopping.txt)]
 
 ---
 
